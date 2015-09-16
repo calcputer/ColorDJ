@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Color DJ</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_color_dj">ColorDJActivity</string>
+
+    <string name="hello_world">Hello world!</string>
+</resources>
